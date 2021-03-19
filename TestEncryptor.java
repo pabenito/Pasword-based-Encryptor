@@ -7,8 +7,6 @@
 
 import java.io.File;
 
-import prEncriptador.Encryptor;
-
 public class TestEncryptor {
 	public static void main(String[] args) {
 		String pasword;
